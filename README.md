@@ -11,7 +11,10 @@ Contribute for hacktoberfest 2022<br />
 <br />
 
 # Hacktoberfest 2022 
-![Hacktoberfest 2021](.github/logo.png)
+![Hfest-Logo-2-Color-Manga](https://user-images.githubusercontent.com/91495425/196058529-6a853055-5c61-4c09-aa2e-c4dae34bddeb.png)
+
+
+
 
 
 ## Contributors of `Hacktoberfest 2022`
@@ -22,7 +25,7 @@ Contribute for hacktoberfest 2022<br />
   <img src="https://contrib.rocks/image?repo=sayantant01/cobraa" />
 </a>
 
-Made with [contrib.rocks](https://contrib.rocks).
+
   
   </div>
 
@@ -32,17 +35,7 @@ Made with [contrib.rocks](https://contrib.rocks).
 
 📢 **Register [here](https://hacktoberfest.digitalocean.com) for Hacktoberfest and make four pull requests (PRs) between October 1st-31st to grab free SWAGS 🔥.**
 
-<div align="center">
 
-<img src="https://img.shields.io/badge/hacktoberfest-2022-blueviolet" alt="Hacktober Badge"/>
- <img src="https://img.shields.io/static/v1?label=%F0%9F%8C%9F&message=If%20Useful&style=style=flat&color=BC4E99" alt="Star Badge"/>
- <a href="https://github.com/sayantan01" ><img src="https://img.shields.io/badge/Contributions-welcome-violet.svg?style=flat&logo=git" alt="Contributions" /></a>
-
-<a href="https://github.com/sayantan01/cobraa/pulls"><img src="https://img.shields.io/github/issues-pr/Soham20chak/Thesaurus" alt="Pull Requests Badge"/></a>
-<a href="https://github.com/sayantan01/cobraa/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/sayantan01/cobraa?color=2b9348"></a>
-<a href="https://github.com/sayantan01/cobraaa/blob/master/LICENSE"><img src="https://img.shields.io/github/license/sayantan01/cobraa?color=2b9348" alt="License Badge"/></a>
-
-</div>
 
 ## Instructions
 
@@ -131,29 +124,8 @@ We continually evaluate all of the checks except the [PARTICIPATING] check. If i
 
 After the 7-day review period completes, your PR/MR will be automatically accepted for Hacktoberfest assuming it still passes all the checks. Once accepted for Hacktoberfest, we stop checking. :party:
 ~~~
-# How to make your first Pull Request
-
-Replace `<YOUR-USERNAME>` with your GitHub username in this guide.
 
 
-
-## 1. Create / Upload Your Code / Algorithms
-
-Create/Upload your code in folder following the convention `Add Code Here`
-- Choose an extact lanaguage folder `drop your code`
-- Below is `an example` to add file properly
-- You can follow up `any languages`
-```
-Add Code Here/PYTHON/<YOUR-FILERNAME>.py
-```
-```
-Add Code Here/C++/<YOUR-FILERNAME>.cpp
-```
-You can follow any pathway a `code` or `profile information`
-
-## 2. Wait for Pull Request to merge
-
-## 3. Celebrate - you've done your first pull request!!!!!
 
 ```py
 Always make more then 4 pull requests.
