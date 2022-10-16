@@ -36,11 +36,11 @@ Made with [contrib.rocks](https://contrib.rocks).
 
 <img src="https://img.shields.io/badge/hacktoberfest-2022-blueviolet" alt="Hacktober Badge"/>
  <img src="https://img.shields.io/static/v1?label=%F0%9F%8C%9F&message=If%20Useful&style=style=flat&color=BC4E99" alt="Star Badge"/>
- <a href="https://github.com/Soham20chak" ><img src="https://img.shields.io/badge/Contributions-welcome-violet.svg?style=flat&logo=git" alt="Contributions" /></a>
+ <a href="https://github.com/sayantan01" ><img src="https://img.shields.io/badge/Contributions-welcome-violet.svg?style=flat&logo=git" alt="Contributions" /></a>
 
-<a href="https://github.com/Soham20chak/Thesaurus/pulls"><img src="https://img.shields.io/github/issues-pr/Soham20chak/Thesaurus" alt="Pull Requests Badge"/></a>
-<a href="https://github.com/Soham20chak/Thesaurus/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/Soham20chak/Thesaurus?color=2b9348"></a>
-<a href="https://github.com/Soham20chak/Thesaurus/blob/master/LICENSE"><img src="https://img.shields.io/github/license/Soham20chak/Thesaurus?color=2b9348" alt="License Badge"/></a>
+<a href="https://github.com/sayantan01/cobraa/pulls"><img src="https://img.shields.io/github/issues-pr/Soham20chak/Thesaurus" alt="Pull Requests Badge"/></a>
+<a href="https://github.com/sayantan01/cobraa/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/Soham20chak/Thesaurus?color=2b9348"></a>
+<a href="https://github.com/sayantan01/cobraaa/blob/master/LICENSE"><img src="https://img.shields.io/github/license/Soham20chak/Thesaurus?color=2b9348" alt="License Badge"/></a>
 
 </div>
 
