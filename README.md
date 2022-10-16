@@ -6,7 +6,7 @@ Contribute for hacktoberfest 2022<br />
 4.Make the PR <br />
 <br />
 
-:) happie hacking ;)
+ happie hacking ;)
 
 <br />
 
