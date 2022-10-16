@@ -39,8 +39,8 @@ Made with [contrib.rocks](https://contrib.rocks).
  <a href="https://github.com/sayantan01" ><img src="https://img.shields.io/badge/Contributions-welcome-violet.svg?style=flat&logo=git" alt="Contributions" /></a>
 
 <a href="https://github.com/sayantan01/cobraa/pulls"><img src="https://img.shields.io/github/issues-pr/Soham20chak/Thesaurus" alt="Pull Requests Badge"/></a>
-<a href="https://github.com/sayantan01/cobraa/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/Soham20chak/Thesaurus?color=2b9348"></a>
-<a href="https://github.com/sayantan01/cobraaa/blob/master/LICENSE"><img src="https://img.shields.io/github/license/Soham20chak/Thesaurus?color=2b9348" alt="License Badge"/></a>
+<a href="https://github.com/sayantan01/cobraa/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/sayantan01/cobraa?color=2b9348"></a>
+<a href="https://github.com/sayantan01/cobraaa/blob/master/LICENSE"><img src="https://img.shields.io/github/license/sayantan01/cobraa?color=2b9348" alt="License Badge"/></a>
 
 </div>
 
