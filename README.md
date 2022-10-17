@@ -71,7 +71,7 @@ __ __
 ###  **When does it count?**
 __ __
 #### Project maintainers must accept your pull/merge requests for them to count toward your total
-###   **Till when does ot count?**
+###   **Till when does it count?**
 __ __
 #### Have 4 pull/merge requests accepted between October 1 and October 31 to complete Hacktoberfest
 
