@@ -153,7 +153,6 @@ keep in mind that repo has hacktoberfest topic..
 \
 /
 \
-/\
 
 
 
