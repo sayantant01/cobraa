@@ -141,6 +141,6 @@ keep in mind that repo has hacktoberfest topic..
 <tr><td align="center"><a href="https://github.com/sayantan01"><kbd><img src="https://avatars3.githubusercontent.com/sayantan01?size=100" width="100px;" alt=""/></kbd><br /><sub><b>Sayantan Talapatra</b></sub></a><br /></td>
 
 </tr>
-\\/
+\\//
 
 
